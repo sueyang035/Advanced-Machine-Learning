@@ -20,3 +20,6 @@ statsmodels
 2) compare model performance fairly
 3) communicate ML findings effectively
 4) critique other data scientists' findings
+   Wine Quality
+   Diabetes Prediction
+   Music Genre Classification
